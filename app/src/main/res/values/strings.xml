@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Crypto String</string>
+    <string name="encrypt">ENCRYPT</string>
+    <string name="decrypt">DECRYPT</string>
+</resources>
